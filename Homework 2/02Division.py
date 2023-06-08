@@ -1,8 +1,4 @@
-number1_str = input(" First number: ")
-number2_str = input("Second number: ")
-combination = int(number1_str) / int(number2_str)
-combination = float(combination)
-print(f"Answer: {combination}")
+number1 = input(" First number: ")
+number2 = input("Second number: ")
 
-print()
-input("Press return to continue ...")
+print(f"Answer:", int(number1) / int(number2))
