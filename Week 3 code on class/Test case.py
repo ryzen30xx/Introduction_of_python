@@ -19,12 +19,11 @@ import sys
 def get_rank(english, math, literature):
     # return rank based on the average of 3 grades
     addition = english + math + literature; multication = addition / 3
-    
-    if  multication <= 4.0: return "failed"
-    elif 4 < multication < 6.5: return "pass"
-    elif multication >= 6.5 and multication < 8: return "merit"
-    elif 8 < multication <= 10: return "dictinction"
-    elif multication > 10 or multication == 5.0: return "invalid grade"
+    if multication > 10 or multication == 5.0 or multication < 0: return "invalid grade"
+    elif  multication <= 4.0: return "failed"
+    elif 4.0 <= multication <= 6.5: return "pass"
+    elif 6.5 > multication < 8.0: return "merit"
+    elif multication >= 8.0: return "dictinction"
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
@@ -33,9 +32,9 @@ if __name__ == '__main__':
 
     english = float(input().strip())
 
-    math = float(input().strip())
+    math = english
 
-    literature = float(input().strip())
+    literature = english
 
     rank = get_rank(english, math, literature)
 
