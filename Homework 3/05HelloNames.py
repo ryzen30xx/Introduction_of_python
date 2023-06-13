@@ -1,0 +1,1 @@
+print("Hello", str(input("Enter your first name: ")), str(input("Enter your last name: ")+ ", COMP1753 module leader"))
