@@ -8,4 +8,4 @@ elif operation == "*": combination = number1 * number2
 elif operation == "%": combination = number1 % number2 #chia lay so du
 elif operation == "//": combination = number1 // number2 #chia lay so nguyen
 elif operation == "**": combination = number1 ** number2 #boi so
-print("answer is:", combination)
+print(f"answer is: {combination}")
