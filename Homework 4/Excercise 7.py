@@ -1,5 +1,6 @@
 name = str(input("Enter your name: "))
 #name.isalpha to compare name string is alpha case or not
+#.replace(condition, new_condition) to replace if string have value like first condition
 while name.replace(" ","").isalpha():
     student_operation = input("Are you student[y/n]: ").lower()
     print(f"Hello {name}, congratulations, you are entitled to a 10% discount") if student_operation == "y" else print(f"Hello {name}, sorry you must pay the regular price")
