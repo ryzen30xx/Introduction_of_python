@@ -1,2 +1,3 @@
 from random import randint
-print("Hello ", input("Type your name: "), ", your lucky number is: ", randint(1, 100))
+name = input("Type your name: ")
+print(f"Hello {name}, your lucky number is: ", randint(1, 100))
