@@ -4,7 +4,7 @@ for i in range(random_request):
     random_number = randint(lowest, highest)
     if random_number == 0: print("Bad luck, no random values for you"); break
     elif random_number == 7: continue
-    #record to store(dictionary)
+    #record to store(dictionary) append have a function is record values to the dictionary
     dict.append(random_number)
 output = "Random: "+", ".join(str(random_number)for random_number in dict)
 print(output)
