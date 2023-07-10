@@ -7,6 +7,5 @@ if choose_item.replace(" ", "").isalpha() or choose_item.replace(" ", "").isdigi
         if choose_item.lower() != "all":print(wtf_conditional)
         else: print(f"Your Shopping List: {list}")
     else: 
-        if int(choose_item) > len(list): print(wtf_conditional); exit()
-        else: print(f"Your item: {list[int(choose_item) - 1]}")
+        print(wtf_conditional) if int(choose_item) > len(list) else print(f"Your item: {list[int(choose_item) - 1]}")
 else: print(wtf_conditional)
