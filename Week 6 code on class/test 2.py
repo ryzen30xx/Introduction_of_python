@@ -6,7 +6,7 @@ def call_factory():
     rd_number = random.sample(range(1, 100), 10)
     print(rd_number,"\n", len(rd_number),"\n", max(rd_number), "\n", min(rd_number), "\n", sum(rd_number), "\n", sorted(rd_number), "\n", sorted(rd_number, reverse=True))
 def append_list():
-    hax= i.append(f)  
+    hax= i.append(f)   # type: ignore
     print(hax)
 
 # # print(call_factory())
@@ -17,4 +17,4 @@ def slice_list():
     print(i[3:])
     print(i[::2])
     print(i[::-1])
-append_list()
+slice_list()
