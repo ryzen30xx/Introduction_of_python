@@ -1,4 +1,4 @@
-list = []; count = 0; wtf_conditional = "WTF_input"; condition = True
+list = []; wtf_conditional = "WTF_input"; condition = True
 
 def add_item(enter_item):
     list.append(enter_item)
@@ -12,16 +12,13 @@ def digit_case(choose_item):
     else: return(f"Your item: {list[int(choose_item) - 1]}")
 
 while condition:
-    count += 1
-    enter_item = input(f"Enter the item you want to buy (press Enter to finish)[{count}]:")
+    enter_item = input(f"Enter the item you want to buy (press Enter to finish)[{len(list) + 1}]:")
     if enter_item.replace(" ", "") =="": condition = False
     else: add_item(enter_item)
 #to show an items in list
-count = 0
-for i in list: 
-    count += 1 
-    print(f"{count}: {i}")
 
+for count, i in enumerate(list, start=1): 
+    print(f"{count}: {i}")
 
 choose_item = input("Which item? (all/index): ")    
 if choose_item.replace(" ", "").isalpha() or choose_item.replace(" ", "").isdigit(): #this line will check conditions if input condition is not alpha or not digits, application will be exit
