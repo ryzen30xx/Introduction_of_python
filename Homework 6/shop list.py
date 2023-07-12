@@ -1,5 +1,11 @@
-list = ["apple", "break", "milk", "eggs"]; count = 0; wtf_conditional = "WTF input"
-print("Enter the items you want to buy (press Enter to finish):")
+list = []; count = 0; wtf_conditional = "WTF input"; accept = True
+print("Welcome to the Grocery Store! \nEnter the items you want to buy (press Enter to finish):")
+while accept: 
+    count += 1
+    insert_item = input(f"Item {count}:")
+    if insert_item != "": list.append(insert_item)
+    else: accept = False
+count = 0
 for i in list: count += 1; print(f"{count}: {i}")
 choose_item = input("Which item? (all/index): ")
 if choose_item.replace(" ", "").isalpha() or choose_item.replace(" ", "").isdigit():
