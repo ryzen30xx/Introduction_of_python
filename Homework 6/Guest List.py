@@ -12,5 +12,4 @@ condition = input("Do you want to remove any guests from the list? (yes/no): ")
 if condition.lower() == "yes":
     name_guest = input("Enter the name of the guest to remove:")
     remove_guest(name_guest)
-    print(f"Guest {name_guest}' has been removed from the list.")
-    print(f"The updated guest list is: {guest_list}")
+    print(f"Guest {name_guest}' has been removed from the list.\nThe updated guest list is: {guest_list}")
