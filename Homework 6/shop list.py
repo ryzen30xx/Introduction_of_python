@@ -1,4 +1,4 @@
-list = ["apple", "break", "milk", "eggs"]; count = 0; wtf_conditional = "WTF_input"
+list = ["apple", "break", "milk", "eggs"]; count = 0; wtf_conditional = "WTF input"
 print("Enter the items you want to buy (press Enter to finish):")
 for i in list: count += 1; print(f"{count}: {i}")
 choose_item = input("Which item? (all/index): ")
