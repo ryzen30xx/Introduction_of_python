@@ -57,4 +57,3 @@ def average_gpa_depart(): #calculate average score of some department
 				total_score += GPAs[i]
 				i += 1
 		print(f"Average score of {enter_depart} is: {str(total_score / i)[0:5]}")
-		
