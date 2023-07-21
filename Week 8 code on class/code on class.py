@@ -46,11 +46,23 @@ print(f"{name2[:int(between)]}")
 if "kien" in name.lower():
 	print(f"{name} found is lower case!")
 else: print("not found")
+
 def test_string():
 	msg = input("Enter a sub string")
 	i = name.find(msg)
 	if i == -1: print(msg, "not found!")
 	else: print(f"{msg} in position {i}")
+
 def start_with():
-	if name.startwith("k"): print(f"{name} start with k")
-	if name.endwith("n"): print(f"{name} end with n")
+	if name.startswith("k"): print(f"{name} start with k")
+	if name.endswith("n"): print(f"{name} end with n")
+
+def remove_space():
+	s = "	name	"
+	print(s.strip())
+
+def create_list():
+	s = "Dinh trung Kien "
+	print(f"There are have {len(s.split())} in {s}")
+create_list()
+
