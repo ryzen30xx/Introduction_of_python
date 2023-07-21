@@ -22,7 +22,7 @@ def find_department(): #query GPAs, name student with Department name
 		for k in departments:
 			if s_department == k:
 				print(f"Student Name: {students[i]}, GPAs: {GPAs[i]}")
-				i += 1
+			i += 1
 
 def best_student(): #find best student with condition is highest GPA score 
 	i = GPAs[0]
@@ -57,3 +57,4 @@ def average_gpa_depart(): #calculate average score of some department
 				total_score += GPAs[i]
 				i += 1
 		print(f"Average score of {enter_depart} is: {str(total_score / i)[0:5]}")
+find_department()
