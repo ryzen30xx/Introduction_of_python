@@ -86,7 +86,7 @@ def sell_book():
 		sleep(1)
 	else:
 		sell_list[s_book] = book_list[s_book]
-		del book_list[s_book]
+		book_list.pop(s_book)
 		print(f"Book {s_book} sold successfully !")
 		input("Press enter for back to menu")
 
