@@ -1,0 +1,11 @@
+if len(names) != len(gpa):
+	print("WTF Request ?")
+else:
+	for name in names:
+		if name in students:
+			print(f"student {name} has already exist!")
+		else:
+			student.append(name)
+			print(f"Student {name} added successful!")
+			for n_gpa in gpa:
+			gpas.append(float(n_gpa))
