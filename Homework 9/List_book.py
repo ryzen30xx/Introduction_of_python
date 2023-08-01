@@ -92,19 +92,28 @@ def sell_book():
 
 def total_sales():
 	system('clear')
-	print(f"Sold list")
-	for name, price in sell_list.items():
-		print('_' * (len(name + str(price)) + 23))
-		print(f"|Book {name} Sold with price {price}|")
-		print('-' * (len(name + str(price)) + 23))
+	n_price = 0
+	if not sell_list:
+		print("You haven't sold any books yet !")
+	else:
+		print(f"Sold list")
+		for name, price in sell_list.items():
+			n_price += price
+			print('_' * (len(name + str(price)) + 23))
+			print(f"|Book {name} Sold with price {price}|")
+			print('-' * (len(name + str(price)) + 23))
+		print(f"\n|You earned {n_price} with a job selling books !|")
 	input("Press enter for back to menu")
 
 def print_all():
 	system('clear')
-	for name, price in book_list.items():
-		print('_' * (len(name + str(price)) + 9))
-		print(f"|{name:^10}:{price:^10}|")
-		print('-' * (len(name + str(price)) + 9))
+	if not book_list:
+		print("Empty database !")
+	else:
+		for name, price in book_list.items():
+			print('_' * (len(name + str(price)) + 9))
+			print(f"|{name:^10}:{price:^10}|")
+			print('-' * (len(name + str(price)) + 9))
 	input("Press enter for back to menu")
 
 
