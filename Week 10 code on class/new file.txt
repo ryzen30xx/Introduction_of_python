@@ -1,0 +1,184 @@
+Authors ordered by first contribution:A list of current team members is available at http://jqueryui.com/about::Paul Bakaus: paul.bakaus@gmail.com
+Richard Worth: rdworth@gmail.com
+Yehuda Katz: wycats@gmail.com
+Sean Catchpole:John Resig: jeresig@gmail.com
+Tane Piper: piper.tane@gmail.com
+Dmitri Gaskin: dmitrig01@gmail.com
+Klaus Hartl: klaus.hartl@gmail.com
+Stefan Petre: stefan.petre@gmail.com
+Gilles van den Hoven:Micheil Bryan Smith:Jörn Zaefferer: joern.zaefferer@gmail.com
+Marc Grabanski:Keith Wood:Brandon Aaron: brandon.aaron@gmail.com
+Scott González: scott.gonzalez@gmail.com
+Eduardo Lundgren: eduardolundgren@gmail.com
+Aaron Eisenberger: aaronchi@gmail.com
+Joan Piedra: theneojp@gmail.com
+Bruno Basto: b.basto@gmail.com
+Remy Sharp:Bohdan Ganicky: bohdan.ganicky@gmail.com
+David Bolter: david.bolter@gmail.com
+Chi Cheng: cloudream@gmail.com
+Ca-Phun Ung: pazu2k@gmail.com
+Ariel Flesler: aflesler@gmail.com
+Maggie Wachs:Scott Jehl: scottjehl@gmail.com
+Todd Parker:Andrew Powell:Brant Burnett: btburnett3@gmail.com
+Douglas Neiner:Paul Irish: paul.irish@gmail.com
+Ralph Whitbeck: ralph.whitbeck@gmail.com
+Thibault Duplessis: thibault.duplessis@gmail.com
+Dominique Vincent:Jack Hsu: jack.hsu@gmail.com
+Adam Sontag:Carl Fürstenberg:Kevin Dalman:Alberto Fernández Capel: afcapel@gmail.com
+Jacek Jędrzejewski:Ting Kuei:Samuel Cormier-Iijima:Jon Palmer: jonspalmer@gmail.com
+Ben Hollis:Justin MacCarthy:Eyal Kobrigo:Tiago Freire: tiago.freire@gmail.com
+Diego Tres: diegotres@gmail.com
+Holger Rüprich:Ziling Zhao: zilingzhao@gmail.com
+Mike Alsup: malsup@gmail.com
+Robson Braga Araujo: robsonbraga@gmail.com
+Pierre-Henri Ausseil: ph.ausseil@gmail.com
+Christopher McCulloh: cmcculloh@gmail.com
+Andrew Newcomb:Lim Chee Aun: cheeaun@gmail.com
+Jorge Barreiro: yortx.barry@gmail.com
+Daniel Steigerwald:John Firebaugh:John Enters:Andrey Kapitcyn: ru.m157y@gmail.com
+Dmitry Petrov: dpetroff@gmail.com
+Eric Hynds:Chairat Sunthornwiphat:Josh Varner: josh.varner@gmail.com
+Stéphane Raimbault: stephane.raimbault@gmail.com
+Jay Merrifield: fracmak@gmail.com
+J. Ryan Stinnett: jryans@gmail.com
+Peter Heiberg:Alex Dovenmuehle: adovenmuehle@gmail.com
+Jamie Gegerson:Raymond Schwartz: skeetergraphics@gmail.com
+Phillip Barnes: philbar@gmail.com
+Kyle Wilkinson:Khaled AlHourani:Marian Rudzynski:Jean-Francois Remy:Doug Blood: dougblood@gmail.com
+Filippo Cavallarin:Heiko Henning:Aliaksandr Rahalevich: saksmlz@gmail.com
+Mario Visic:Xavi Ramirez: xavi.rmz@gmail.com
+Max Schnur: max.schnur@gmail.com
+Saji Nediyanchath: saji89@gmail.com
+Corey Frang: gnarf37@gmail.com
+Aaron Peterson:Ivan Peters:Mohamed Cherif Bouchelaghem:Marcos Sousa:Michael DellaNoce:George Marshall: echosx@gmail.com
+Tobias Brunner:Martin Solli: msolli@gmail.com
+David Petersen:Dan Heberden: danheberden@gmail.com
+William Kevin Manire: williamkmanire@gmail.com
+Gilmore Davidson: gilmoreorless@gmail.com
+Michael Wu: michaelmwu@gmail.com
+Adam Parod: mystic414@gmail.com
+Guillaume Gautreau:Marcel Toele: EleotleCram@gmail.com
+Dan Streetman:Matt Hoskins:Giovanni Giacobbi:Kyle Florence: kyle.florence@gmail.com
+Pavol Hluchý:Hans Hillen: hans.hillen@gmail.com
+Mark Johnson:Trey Hunner: treyhunner@gmail.com
+Shane Whittet: whittet@gmail.com
+Edward A Faulkner:Adam Baratz:Kato Kazuyoshi: kato.kazuyoshi@gmail.com
+Eike Send: eike.send@gmail.com
+Kris Borchers: kris.borchers@gmail.com
+Eddie Monge:Israel Tsadok: itsadok@gmail.com
+Carson McDonald:Jason Davies:Garrison Locke: gplocke@gmail.com
+David Murdoch:Benjamin Scott Boyle: benjamins.boyle@gmail.com
+Jesse Baird: jebaird@gmail.com
+Jonathan Vingiano: jvingiano@gmail.com
+Dylan Just:Hiroshi Tomita: tomykaira@gmail.com
+Glenn Goodrich: glenn.goodrich@gmail.com
+Tarafder Ashek-E-Elahi: mail.ashek@gmail.com
+Ryan Neufeld:Marc Neuwirth: marc.neuwirth@gmail.com
+Philip Graham: philip.robert.graham@gmail.com
+Benjamin Sterling:Wesley Walser: waw325@gmail.com
+Kouhei Sutou:Karl Kirch: karlkrch@gmail.com
+Chris Kelly:Jason Oster:Felix Nagel:Alexander Polomoshnov: alex.polomoshnov@gmail.com
+David Leal: dgleal@gmail.com
+Igor Milla: igor.fsp.milla@gmail.com
+Dave Methvin: dave.methvin@gmail.com
+Florian Gutmann:Marwan Al Jubeh: marwan.aljubeh@gmail.com
+Milan Broum:Sebastian Sauer:Gaëtan Muller: m.gaetan89@gmail.com
+Michel Weimerskirch:William Griffiths:Stojce Slavkovski: stojce@gmail.com
+David Soms: david.soms@gmail.com
+David De Sloovere:Michael P. Jung:Shannon Pekary: spekary@gmail.com
+Dan Wellman:Matthew Edward Hutton:James Khoury:Rob Loach: robloach@gmail.com
+Alberto Monteiro: betimbrasil@gmail.com
+Alex Rhea: alex.rhea@gmail.com
+Krzysztof Rosiński: rozwell69@gmail.com
+Ryan Olton: oltonr@gmail.com
+Genie:Rick Waldron: waldron.rick@gmail.com
+Ian Simpson: spoonlikesham@gmail.com
+Lev Kitsis: spam4lev@gmail.com
+TJ VanToll: tj.vantoll@gmail.com
+Justin Domnitz: jdomnitz@gmail.com
+Douglas Cerna:Bert ter Heide:Jasvir Nagra: jasvir@gmail.com
+Yuriy Khabarov: 13real008@gmail.com
+Harri Kilpiö: harri.kilpio@gmail.com
+Lado Lomidze: lado.lomidze@gmail.com
+Amir E. Aharoni:Simon Sattes: simon.sattes@gmail.com
+Jo Liss: joliss42@gmail.com
+Guntupalli Karunakar:Shahyar Ghobadpour: shahyar@gmail.com
+Lukasz Lipinski: uzza17@gmail.com
+Timo Tijhof: krinklemail@gmail.com
+Jason Moon:Martin Frost:Eneko Illarramendi:EungJun Yi: semtlenori@gmail.com
+Courtland Allen: courtlandallen@gmail.com
+Viktar Varvanovich: non4eg@gmail.com
+Danny Trunk: dtrunk90@gmail.com
+Pavel Stetina:Michael Stay: metaweta@gmail.com
+Steven Roussey: sroussey@gmail.com
+Michael Hollis: hollis21@gmail.com
+Lee Rowlands:Timmy Willison: timmywillisn@gmail.com
+Karl Swedberg: kswedberg@gmail.com
+Baoju Yuan:Maciej Mroziński: maciej.k.mrozinski@gmail.com
+Luis Dalmolin: luis.nh@gmail.com
+Mark Aaron Shirley: maspwr@gmail.com
+Martin Hoch:Jiayi Yang: tr870829@gmail.com
+Philipp Benjamin Köppchen:Sindre Sorhus: sindresorhus@gmail.com
+Bernhard Sirlinger:Jared A. Scheel:Rafael Xavier de Souza: rxaviers@gmail.com
+John Chen:Robert Beuligmann: robertbeuligmann@gmail.com
+Dale Kocian: dale.kocian@gmail.com
+Mike Sherov: mike.sherov@gmail.com
+Andrew Couch:Marc-Andre Lafortune:Nate Eagle:David Souther: davidsouther@gmail.com
+Mathias Stenbom:Sergey Kartashov:Avinash R: nashpapa@gmail.com
+Ethan Romba: ethanromba@gmail.com
+Cory Gackenheimer: cory.gack@gmail.com
+Juan Pablo Kaniefsky: jpkaniefsky@gmail.com
+Roman Salnikov: bardt.dz@gmail.com
+Anika Henke:Samuel Bovée:Fabrício Matté:Viktor Kojouharov: vkojouharov@gmail.com
+Pawel Maruszczyk:Pavel Selitskas: p.selitskas@gmail.com
+Bjørn Johansen:Matthieu Penant:Dominic Barnes:David Sullivan: david.sullivan@gmail.com
+Thomas Jaggi:Vahid Sohrabloo: vahid4134@gmail.com
+Travis Carden: travis.carden@gmail.com
+Bruno M. Custódio:Nathanael Silverman: nathanael.silverman@gmail.com
+Christian Wenz:Steve Urmston:Zaven Muradyan: megalivoithos@gmail.com
+Woody Gilk:Zbigniew Motyka: zbigniew.motyka@gmail.com
+Suhail Alkowaileet: xsoh.k7@gmail.com
+Toshi MARUYAMA:David Hansen: hansede@gmail.com
+Brian Grinstead: briangrinstead@gmail.com
+Christian Klammer: christian314159@gmail.com
+Steven Luscher:Gan Eng Chin: engchin.gan@gmail.com
+Gabriel Schulhof:Alexander Schmitz: arschmitz@gmail.com
+Vilhjálmur Skúlason:Siebrand Mazeland:Mohsen Ekhtiari:Pere Orga: gotrunks@gmail.com
+Jasper de Groot:Stephane Deschamps: stephane.deschamps@gmail.com
+Jyoti Deka: dekajp@gmail.com
+Andrei Picus: office.nightcrawler@gmail.com
+Ondrej Novy:Jacob McCutcheon: jacob.mccutcheon@gmail.com
+Monika Piotrowicz: monika.piotrowicz@gmail.com
+Imants Horsts:Eric Dahl: eric.c.dahl@gmail.com
+Dave Stein:Dylan Barrell:Daniel DeGroff: djdegroff@gmail.com
+Michael Wiencek: mwtuea@gmail.com
+Thomas Meyer: meyertee@gmail.com
+Ruslan Yakhyaev:Brian J. Dowling:Ben Higgins:Yermo Lamers:Patrick Stapleton:Trisha Crowley: trisha.crowley@gmail.com
+Usman Akeju: akeju00+github@gmail.com
+Rodrigo Menezes: rod333@gmail.com
+Jacques Perrault:Frederik Elvhage:Will Holley: willholley@gmail.com
+Uri Gilad: antishok@gmail.com
+Richard Gibson: richard.gibson@gmail.com
+Simen Bekkhus: sbekkhus91@gmail.com
+Chen Eshchar: eshcharc@gmail.com
+Bruno Pérel: brunoperel@gmail.com
+Mohammed Alshehri:Lisa Seacat DeLuca:Anne-Gaelle Colom:Adam Foster: slimfoster@gmail.com
+Luke Page: luke.a.page@gmail.com
+Daniel Owens:Michael Orchard:Marcus Warren:Nils Heuermann:Marco Ziech:Patricia Juarez: patrixd@gmail.com
+Ben Mosher:Ablay Keldibek: atomio.ak@gmail.com
+Thomas Applencourt:Jiabao Wu: jiabao.foss@gmail.com
+Eric Lee Carraway:Victor Homyakov: vkhomyackov@gmail.com
+Myeongjin Lee: aranet100@gmail.com
+Liran Sharir: lsharir@gmail.com
+Weston Ruter:Mani Mishra: manimishra902@gmail.com
+Hannah Methvin: hannahmethvin@gmail.com
+Leonardo Balter: leonardo.balter@gmail.com
+Benjamin Albert:Michał Gołębiowski: m.goleb@gmail.com
+Alyosha Pushak: alyosha.pushak@gmail.com
+Fahad Ahmad:Matt Brundage:Francesc Baeta: francesc.baeta@gmail.com
+Piotr Baran:Mukul Hase: mukulhase@gmail.com
+Konstantin Dinev:Rand Scullard:Dan Strohl:Maksim Ryzhikov: rv.maksim@gmail.com
+Amine HADDAD:Amanpreet Singh: apsdehal@gmail.com
+Alexey Balchunas: bleshik@gmail.com
+Peter Kehl: peter.kehl@gmail.com
+Peter Dave Hello:Johannes Schäfer:Ville Skyttä:Ryan Oriecuia:

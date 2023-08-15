@@ -4,5 +4,5 @@ def total_sales():
 	print(f"Sold list")
 	for name, price in sell_list.items():
 		print(f"- Book {name} sold with price {price}")
-		sleep(2)
+	sleep(2)
 total_sales()

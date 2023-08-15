@@ -31,7 +31,6 @@ def book_management():
 			elif condition == 4: sell_book()
 			elif condition == 5: total_sales()
 			elif condition == 6: print_all()
-			else: print("Exiting program..."); exit()
 
 		except ValueError:
 			print("Wrong input! your enter must be integer number")
@@ -102,7 +101,9 @@ def total_sales():
 			print('_' * (len(name + str(price)) + 23))
 			print(f"|Book {name} Sold with price {price}|")
 			print('-' * (len(name + str(price)) + 23))
+
 		print(f"\n|You earned {n_price} with a job selling books !|")
+
 	input("Press enter for back to menu")
 
 def print_all():
